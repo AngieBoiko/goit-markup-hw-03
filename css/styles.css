@@ -256,7 +256,7 @@ img {
 
 /*============END FEATURES============*/
 
-/*============PROJECTS-GALLERY============*/
+/*============FUNCTIONS============*/
 .functions-title {
   font-weight: 700;
   font-size: 36px;
@@ -275,7 +275,7 @@ img {
 .functions {
   padding-bottom: var(--section-padding-bottom);
 }
-/*============END-PROJECTS-GALLERY============*/
+/*============END-FUNCTIONS============*/
 
 /*============TEAM============*/
 .team {
